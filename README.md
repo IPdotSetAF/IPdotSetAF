@@ -1,3 +1,4 @@
+<img src="ipaf-logo.gif" style="max-width:200px; border-radius: 50%;">
 <div style="width: 100%;">
   <img src="animated.svg" style="width: 100%;">
 </div>
