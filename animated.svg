@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -36,7 +36,7 @@
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          height: 300px;
+          height: 200px;
 
           display: flex;
           justify-content: center;
@@ -48,6 +48,11 @@
 
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        .img {
           display: inline-block;
           transform-origin: 70% 70%;
         }
@@ -73,7 +78,8 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <img src="ipaf-logo.gif"/>
+        <h1>Hi there, my name is Mahdi<div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
