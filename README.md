@@ -2,4 +2,4 @@
   <img src="animated.svg" style="width: 100%;">
 </div>
 
-![Top Langs](https://github-readme-stats.ipdotsetafs-projects.vercel.app/api/top-langs/?username=ipdotsetaf&layout=compact&langs_count=12&theme=tokyonight&hide=perl,assembly,shaderlab,nasl,hlsl,cmake,mathematica,vue&exclude_repo=&size_weight=0.3&count_weight=0.7)
+![Top Langs](https://github-readme-stats.ipdotsetafs-projects.vercel.app/api/top-langs/?username=ipdotsetaf&layout=compact&langs_count=10&theme=tokyonight&hide=perl,assembly,shaderlab,nasl,hlsl,cmake,mathematica,vue&exclude_repo=&size_weight=0.3&count_weight=0.7)
