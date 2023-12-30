@@ -2,4 +2,4 @@
   <img src="animated.svg" style="width: 100%;">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPdotSetAF&layout=compact&langs_count=8)
+![Top Langs](github-readme-stats.ipdotsetaf.vercel.app/api/top-langs/?username=IPdotSetAF&layout=compact&langs_count=6)
