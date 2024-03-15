@@ -57,6 +57,12 @@
           transform-origin: 70% 70%;
         }
 
+        .subtitle{
+          display: flex;
+          justify-content: center;
+          font-size: 0.5em;
+        }
+        
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
@@ -79,7 +85,10 @@
 
       <div class="container">
         <img src="ipaf-logo.gif"/>
-        <h1>Hi there, my name is Mahdi<div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Mahdi<div class="hi">👋</div>
+          <div class="subtitle">Let the code talk...</div>
+        </h1>
+        
       </div>
     </div>
   </foreignObject>
