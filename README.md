@@ -12,7 +12,7 @@
 
 <h3 align="left">Skills and Tools:</h3>
 
-[![My Skills and Tools](https://go-skill-icons.vercel.app/api/icons?i=java,androidstudio,angular,bootstrap,html,css,js,ts,sass,arduino,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,sqlserver,mongo,elasticsearch,kibana,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,opencv,tensorflow,pytorch,ai,ps,blender&theme=dark)](https://skillicons.dev)
+[![My Skills and Tools](https://go-skill-icons.vercel.app/api/icons?i=java,androidstudio,angular,bootstrap,html,css,js,ts,sass,arduino,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,sqlserver,mongo,elasticsearch,kibana,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,anaconda,jupyter,opencv,tensorflow,pytorch,ai,ps,blender&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
