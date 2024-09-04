@@ -15,7 +15,9 @@
 <h3 align="center">Skills and Tools</h3>
 
 <p align="center">
-  <img alt="My Skills and Tools" src="https://go-skill-icons.vercel.app/api/icons?i=java,androidstudio,angular,bootstrap,html,css,js,ts,sass,arduino,platformio,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,sqlserver,mongo,elasticsearch,kibana,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,anaconda,jupyter,opencv,tensorflow,pytorch,ai,ps,blender" />
+  <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+    <img alt="My Skills and Tools" src="https://go-skill-icons.vercel.app/api/icons?i=java,androidstudio,angular,bootstrap,html,css,js,ts,sass,arduino,platformio,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,sqlserver,mongo,elasticsearch,kibana,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,anaconda,jupyter,opencv,tensorflow,pytorch,ai,ps,blender" />
+  </a>
 </p>
 
 <h3 align="center">Connect with me</h3>
