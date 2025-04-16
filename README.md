@@ -23,10 +23,10 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<!--   <a href="https://linkedin.com/in/ipaf" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" /></a> -->
+  <a href="https://linkedin.com/in/ipaf" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/8931133" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="StackOverFlow" /></a>
   <a href="https://discord.com/invite/BTZDf7fs" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord" /></a>
-<!--   <a href="https://t.me/IPdotSetAF" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram" /></a> -->
+  <a href="https://t.me/IPdotSetAF" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram" /></a>
 </p>
   
 <p align="center"> 
