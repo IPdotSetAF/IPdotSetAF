@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
-    <img alt="My Skills and Tools" src="https://go-skill-icons.vercel.app/api/icons?i=java,androidstudio,angular,bootstrap,html,css,js,ts,arduino,platformio,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,postgres,sqlserver,mongo,elasticsearch,kibana,rabbitmq,airflow,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,opencv,tensorflow,pytorch" />
+    <img alt="My Skills and Tools" src="https://go-skill-icons.vercel.app/api/icons?i=java,android,androidstudio,kotlin,angular,bootstrap,html,css,js,ts,arduino,platformio,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,postgres,sqlserver,mongo,elasticsearch,kibana,rabbitmq,airflow,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,opencv,tensorflow,pytorch" />
   </a>
 </p>
 
