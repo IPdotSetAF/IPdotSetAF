@@ -12,12 +12,67 @@
   </a>
 </p>
 
+<h2 align="center">
+  Visit My <a href="https://ipdotsetaf.ir">Website!</a>
+</h2>
+
 <h3 align="center">Skills and Tools</h3>
 
 <p align="center">
-  <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
-    <img alt="My Skills and Tools" src="https://go-skill-icons.vercel.app/api/icons?i=java,android,androidstudio,kotlin,angular,bootstrap,html,css,js,ts,arduino,platformio,visualstudio,vscode,idea,rider,unity,dotnet,cs,cpp,qt,mysql,sqlite,postgres,sqlserver,mongo,elasticsearch,kibana,rabbitmq,airflow,git,github,gitlab,docker,ubuntu,bash,nginx,postman,python,opencv,tensorflow,pytorch" />
-  </a>
+  <h4 align="center">Language</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="Language" src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,java,python,go,kotlin,html,css,js,ts,bash" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">Backend</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="Backend" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,fastapi,grpc,graphql" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">Frontend</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="Frontend" src="https://go-skill-icons.vercel.app/api/icons?i=android,qt,dotnet,angular,bootstrap,unity" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">Database and messaging</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="Database and messaging" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongo,sqlite,postgres,mysql,elasticsearch,redis,rabbitmq" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">IDE</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="IDE" src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,rider" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">Source Control and Deployment</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+      <img alt="Source Control and Deployment" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,nginx" />
+    </a>
+  </p>
+</p>
+<p align="center">
+  <h4 align="center">Other tools</h4>
+  <p align="center">
+    <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
+    <img alt="Other tools" src="https://go-skill-icons.vercel.app/api/icons?i=kibana,airflow,postman,tensorflow,pytorch,arduino,platformio,blender" />
+    </a>
+  </p>
 </p>
 
 <h3 align="center">Connect with me</h3>
