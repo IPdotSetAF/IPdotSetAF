@@ -70,7 +70,7 @@
   <h4 align="center">Other tools</h4>
   <p align="center">
     <a href="https://github.com/IPdotSetAF/skill-icons" target="blank">
-    <img alt="Other tools" src="https://go-skill-icons.vercel.app/api/icons?i=kibana,airflow,postman,tensorflow,pytorch,arduino,platformio,blender" />
+    <img alt="Other tools" src="https://go-skill-icons.vercel.app/api/icons?i=grafana,kibana,airflow,postman,tensorflow,pytorch,arduino,platformio,blender" />
     </a>
   </p>
 </p>
